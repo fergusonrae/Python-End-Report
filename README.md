@@ -1,10 +1,15 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/raferguson/Python-End-Report/master)
+
+
 # Python End Report
 
 This repo was created to hold the final report for my Python independent study at the Milwaukee School of Engineering.
 
 The final report was created as a Jupyter Notebook. It is made to be easy to read without interaction. You can do this in browser by clicking the PythonEndReport1.ipynb link in the repo.
 
-However, if you would prefer to run the code in the notebook, the easiest way to run this notebook in your browser is through conda.
+Or, another simple way to run the notebook that allows interaction and running cells is to launch the repo in Binder. You can do that by clicking the Launch Binder button above. It will take a little bit to load, but doesn't require downloading anything to your local computer.
+
+if you would prefer to run the code in the notebook locally, the easiest way is using conda.
 
 ### Install miniconda
 https://conda.io/miniconda.html
